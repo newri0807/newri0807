@@ -15,8 +15,8 @@
   <br>
   <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase-aws&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=photoshop&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AdobeInDesign-FF3366?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp
 </p>
 
