@@ -1,4 +1,4 @@
-[header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Newls&fontSize=70&animation=twinkling)](url)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Newls&fontSize=70&animation=twinkling)
 
 <p align="center">🅚🅡 🅔🅖 🅞🅚 </p>
 
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Csharp-A8B9CC?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Csharp-A8B9CC?style=flat-square&logo=cSharp&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoft&logoColor=white"/></a>&nbsp
