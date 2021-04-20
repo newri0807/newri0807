@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=SLICE&color=auto&height=180&section=header&text=Newls&fontSize=70&animation=twinkling)
+
+<h1 align="center"> NEWLS</h1>
+
+
 
 <p align="center">🅚🅡 🅔🅖 🅞🅚 </p>
 
