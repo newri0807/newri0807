@@ -1,11 +1,10 @@
-
-<h1 align="center"> NEWLS</h1>
+![header](https://NEWLS.vercel.app/api?type=wave&color=auto&height=180&section=header&text=capsule%20render&fontSize=90&animation=fadeIn&fontAlignY=38)
 
 
 
 <p align="center">🅚🅡 🅔🅖 🅞🅚 </p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">✨ Tech Stack ✨</h3>
 
 <p align="center"> Techs that I've used at least once </p>
 
@@ -20,9 +19,9 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoft&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=illustrator&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AdobeInDesign-FF3366?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp
 </p>
 
 <br><br>
