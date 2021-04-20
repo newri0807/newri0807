@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoft&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=adobe.illustrator&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AdobeInDesign-FF3366?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp
 </p>
