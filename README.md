@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=NEWLS&fontSize=90&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=header&text=NEWLS&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 
 
