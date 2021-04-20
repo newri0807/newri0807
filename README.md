@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=SLICE&color=#8888&height=180&section=header&text=Newls&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=SLICE&color=auto&height=180&section=header&text=Newls&fontSize=70&animation=twinkling)
 
 <p align="center">🅚🅡 🅔🅖 🅞🅚 </p>
 
