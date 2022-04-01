@@ -60,6 +60,10 @@
   <a href="https://www.instagram.com/_nm.87/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_nm.87/"/></a>&nbsp
   <a href="mailto:newri0807@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=newri0807@naver.com"/></a>
 </p>
+
+
+<br>
+<br>
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newri0807&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newri0807&hide=css,html&layout=compact)](https://github.com/newri0807/github-readme-stats)
