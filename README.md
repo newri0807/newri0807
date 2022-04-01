@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSharp-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
-   <img src="https://img.shields.io/badge/.NET-#512BD4?style=flat-square&logo=.net&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C|#-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
+   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp 
