@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<p align="center"> Usable Development Skills </p>
+<h4 align="center">😎 Usable Development Skills 😎</h4>
 <hr>
 <p align="center">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
@@ -30,7 +30,8 @@
 <br>
 <br>
 
-<p align="center"> Design Skills </p>
+
+<h4 align="center"> Design Skills </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp 
@@ -40,7 +41,8 @@
 <br>
 <br>
 
-<p align="center"> Learning Skills </p>
+
+<h4 align="center"> Learning Skills </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
