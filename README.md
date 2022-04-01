@@ -1,3 +1,5 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=NEWL&fontSize=50&animation=fadeIn&fontAlignY=58)
 
 <br>
@@ -65,3 +67,5 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newri0807&show_icons=true&theme=buefy)](https://github.com/newri0807/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newri0807&hide=css,html&layout=compact)](https://github.com/newri0807/github-readme-stats)
+
+</div>
