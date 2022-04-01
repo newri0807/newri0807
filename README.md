@@ -63,5 +63,4 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newri0807&show_icons=true&theme=dracula)](https://github.com/newri0807/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newri0807&layout=compact)](https://github.com/newri0807/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newri0807&show_icons=true&theme=buefy)](https://github.com/newri0807/github-readme-stats)
