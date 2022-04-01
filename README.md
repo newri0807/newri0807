@@ -62,6 +62,6 @@
 
 
 
-<p align="center">
+<div align="center">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newri0807&show_icons=true&theme=dracula)](https://github.com/newri0807/github-readme-stats)
-</p>
+</div>
