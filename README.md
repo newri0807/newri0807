@@ -15,8 +15,8 @@
 <br>
 <br>
 
-## Tech Stack
-<h4 align="center">😎 Usable Development Skills 😎</h4>
+
+### 😎 Usable Development Skills 😎
 <hr style="height: 0.1em;">
 <p align="center">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
