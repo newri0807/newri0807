@@ -16,7 +16,7 @@
 <br>
 
 <h4 align="center">😎 Usable Development Skills 😎</h4>
-<hr style="heigth:.4px">
+<hr style="height: 0.1em;">
 <p align="center">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
