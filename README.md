@@ -27,14 +27,11 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 </p>
 
-<div align=center>
-
+<div align="left">
 ### Contact
-<p align="left">
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nm.87/)](https://www.instagram.com/_nm.87/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:newri0807@gmail.com)](mailto:newri0807@gmail.com)
 </div>
-</p>
 
 
 
