@@ -1,5 +1,5 @@
 ### Hi there 😎 
-### I'm front-end developer and I used these 
+### I'm a front-end developer and I've using these 
 <p align="left">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
