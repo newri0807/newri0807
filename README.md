@@ -30,6 +30,6 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newri0807&show_icons=true&theme=graywhite&border_color=fff)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newri0807&hide=css,html&layout=compact&border_color=fff)](https://github.com/newri0807/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newri0807&show_icons=true&theme=swift&border_color=fff)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newri0807&hide=css,html&layout=compact&border_color=fff)](https://github.com/newri0807/github-readme-stats)
 
 
