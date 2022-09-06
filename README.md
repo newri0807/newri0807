@@ -1,22 +1,12 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=soft&color=fdfbfb&height=30&section=header&text=FrontendDeveloper&fontSize=25&animation=fadeIn&fontAlignY=58)
-![header](https://capsule-render.vercel.app/api?type=Waving&&color=0:fad0c4,100:ffd1ff&height=200&section=header&text=Newl&fontSize=50&animation=fadeIn&fontAlignY=58)
-  
-  
-<br>
-<br>
-<p align="center">🅚🅡 🅔🅖 🅞🅚 </p>
+<div align=center>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
-<p align="center"> Techs that I've used at least once </p>
+</div>
 
-<br>
-<br>
-
-<h4 align="center"> 😎 Usable Development Skills 😎 </h4>
-<p align="center">
+### Front-end developer
+- Usable Development Skills 
+<p align="left">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp 
@@ -32,47 +22,16 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp 
 </p>
 
-<br>
-<br>
-
-
-<h4 align="center"> Design Skills </h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/InDesign-FF3366?style=flat-square&logo=adobe&logoColor=white"/></a>&nbsp
-</p>
-
-<br>
-<br>
-
-
-<h4 align="center"> Learning Skills </h4>
-<p align="center">
+### Interest && Learning 
+<p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
 </p>
 
-<br>
-<br>
-<h3 align="center"> 🍒 Me 🍒 </h3>
-<p align="center">
-  <a href="https://www.instagram.com/_nm.87/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_nm.87/"/></a>&nbsp
-  <a href="mailto:newri0807@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=newri0807@naver.com"/></a>
-</p>
+<div align=center>
 
 
-<br>
-<br>
-<br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newri0807&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newri0807&hide=css,html&layout=compact)](https://github.com/newri0807/github-readme-stats)
-
-
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nm.87/)](https://www.instagram.com/_nm.87/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:newri0807@gmail.com)](mailto:newri0807@gmail.com)
 </div>
-
-
-
-
-
