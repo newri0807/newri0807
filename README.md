@@ -3,7 +3,7 @@
 </div>
 
 ### Front-end developer
-- Usable Development Skills 
+#### Usable Development Skills 
 <p align="left">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
@@ -29,7 +29,7 @@
 
 <div align=center>
 
-
+### Contact
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nm.87/)](https://www.instagram.com/_nm.87/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:newri0807@gmail.com)](mailto:newri0807@gmail.com)
 </div>
