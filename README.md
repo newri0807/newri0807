@@ -28,10 +28,14 @@
 </p>
 
 <div align=center>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newri0807&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newri0807&hide=css,html&layout=compact)](https://github.com/newri0807/github-readme-stats)
-
 
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nm.87/)](https://www.instagram.com/_nm.87/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:newri0807@gmail.com)](mailto:newri0807@gmail.com)
 </div>
+
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=newri0807&show_icons=true&theme=buefy)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newri0807&hide=css,html&layout=compact)](https://github.com/newri0807/github-readme-stats)
+
+
