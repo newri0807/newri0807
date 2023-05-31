@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Contact me</strong>
+  <strong>Hi there 😎</strong>
 </p>
 <p align="center">
   <img src="https://github.com/newri0807/newri0807/assets/51315988/4a6fb530-b6e7-4156-ae8c-bd620836a7cc" alt="Image" align="center"/>
@@ -17,8 +17,9 @@
   </p>
 </p>
 
-### Hi there 😎 
-### I've using these 
+<p align="center">
+  <strong>I've using these </strong>
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
@@ -32,7 +33,9 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp  
 </p>
 
-### Interest && Learning 
+<p align="center">
+  <strong>Interest && Learning</strong>
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp 
