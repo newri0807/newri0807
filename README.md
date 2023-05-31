@@ -1,9 +1,5 @@
 ![output-onlinegiftools (1)](https://github.com/newri0807/newri0807/assets/51315988/4a6fb530-b6e7-4156-ae8c-bd620836a7cc)
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nm.87/)](https://www.instagram.com/_nm.87/) 
-
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:newri0807@gmail.com)](mailto:newri0807@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nm.87/)](https://www.instagram.com/_nm.87/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:newri0807@gmail.com)](mailto:newri0807@gmail.com)
 
 
 ### Hi there 😎 
