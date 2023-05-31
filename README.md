@@ -1,5 +1,5 @@
 <p align="center"><img src="https://gifdb.com/images/high/typing-cat-literally-me-daily-lbowaz5k068ljpcc.gif" width="400" height="300" align="center"/></p>
-<br/>
+
 ### Hi there 😎 
 ### I've using these 
 [![wakatime](https://wakatime.com/badge/user/2203e04c-a61e-4be7-a711-8f7bd0e5ce18.svg)](https://wakatime.com/@2203e04c-a61e-4be7-a711-8f7bd0e5ce18)
