@@ -1,6 +1,6 @@
 ### Hi there 😎 
 
-![image](https://github.com/newri0807/newri0807/assets/51315988/7d46c0b6-2bb8-4183-a969-d682b026281c)
+<img src="https://gifdb.com/images/high/typing-cat-literally-me-daily-lbowaz5k068ljpcc.gif" width="200" height="400"/>
 
 ### I've using these 
 [![wakatime](https://wakatime.com/badge/user/2203e04c-a61e-4be7-a711-8f7bd0e5ce18.svg)](https://wakatime.com/@2203e04c-a61e-4be7-a711-8f7bd0e5ce18)
