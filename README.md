@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://twitter.com/Irwen215">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-squaree&logo=twitter&logoColor=white" alt="Gmail" />
   </a>  
   </p>
 </p>
