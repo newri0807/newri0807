@@ -3,10 +3,10 @@
   <br />
   <p align="center">
   <a href="https://www.instagram.com/_nm.87/">
-    <img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-squaree&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:newri0807@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-squaree&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://twitter.com/Irwen215">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-squaree&logo=twitter&logoColor=white" alt="Gmail" />
