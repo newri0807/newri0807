@@ -3,20 +3,10 @@
 </p>
 <p align="center">
   <img src="https://github.com/newri0807/newri0807/assets/51315988/b126211e-fb41-432e-b978-dd2ec0f549e7" alt="Image" align="center"/>
-  <br />
-  ###
+</p>
+
    - - -
-  <p align="center">
-  <a href="https://www.instagram.com/_nm.87/">
-    <img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-squaree&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:newri0807@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-squaree&logo=Gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://twitter.com/Irwen215">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-squaree&logo=twitter&logoColor=white" alt="Gmail" />
-  </a>  
-  </p>
+ 
 </p>
 <br/>
 <br/>
@@ -45,6 +35,19 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp 
+</p>
+
+<p align="center">
+  <strong>Contact Me</strong>
+  <a href="https://www.instagram.com/_nm.87/">
+    <img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-squaree&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:newri0807@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-squaree&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/Irwen215">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-squaree&logo=twitter&logoColor=white" alt="Gmail" />
+  </a>  
 </p>
 
 &nbsp;
