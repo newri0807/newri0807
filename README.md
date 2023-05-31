@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Hi there <img src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif" width="30px" height="auto"></strong>
+  <strong>Hi there <img src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif" width="100%" height="35px"></strong>
 </p>
 <p align="center">
  <img src="https://github.com/newri0807/newri0807/assets/51315988/4a6fb530-b6e7-4156-ae8c-bd620836a7cc" alt="Image" align="center"/>
