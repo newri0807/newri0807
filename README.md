@@ -1,5 +1,5 @@
 <h3 align="center">
-  <strong>Hi there <span><img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f63a.gif" width="15px" height="15px"></span></strong>
+  <strong>Hi there <span><img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f63a.gif" width="45px" height="auto"></span></strong>
 </h3>
 <p align="center">
  <img src="https://github.com/newri0807/newri0807/assets/51315988/4a6fb530-b6e7-4156-ae8c-bd620836a7cc" alt="Image" align="center"/>
