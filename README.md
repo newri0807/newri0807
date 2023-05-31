@@ -29,6 +29,7 @@
 
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=newri0807)](https://github.com/anuraghazra/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newri0807&hide=css,html&layout=compact&border_color=fff&theme=default)](https://github.com/newri0807/github-readme-stats)
+![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=newri0807)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newri0807&hide=css,html&layout=compact&border_color=fff&theme=default)](https://github.com/newri0807/github-readme-stats)
 
 
