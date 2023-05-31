@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" vertical-align="middle">
   <strong>Hi there <span><img src="https://cliply.co/wp-content/uploads/2021/07/392107260_SUNGLASSES_EMOJI_400px.gif" width="30px" height="auto" style="display: block; margin: 0 auto;"></span></strong>
 </p>
 <p align="center">
