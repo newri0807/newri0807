@@ -2,7 +2,8 @@
   <strong>Hi there 😎</strong>
 </p>
 <p align="center">
-  <img src="https://github.com/newri0807/newri0807/assets/51315988/b126211e-fb41-432e-b978-dd2ec0f549e7" alt="Image" align="center"/>
+ <img src="https://github.com/newri0807/newri0807/assets/51315988/4a6fb530-b6e7-4156-ae8c-bd620836a7cc" alt="Image" align="center"/>
+  <br/>
   <br/>
   <a href="https://www.instagram.com/_nm.87/">
     <img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-squaree&logo=instagram&logoColor=white" alt="Instagram" />
