@@ -1,7 +1,7 @@
-<p align="center">
-<img src="https://usagif.com/wp-content/uploads/cat-typing-2.gif" width="200px" height="100%" align="center"/>
-[![wakatime](https://wakatime.com/badge/user/2203e04c-a61e-4be7-a711-8f7bd0e5ce18.svg)](https://wakatime.com/@2203e04c-a61e-4be7-a711-8f7bd0e5ce18)
-</p>
+<p align="center"><img src="https://usagif.com/wp-content/uploads/cat-typing-2.gif" width="200px" height="100%" align="center"/></p>
+<p align="center">[![wakatime](https://wakatime.com/badge/user/2203e04c-a61e-4be7-a711-8f7bd0e5ce18.svg)](https://wakatime.com/@2203e04c-a61e-4be7-a711-8f7bd0e5ce18)</p>
+
+
 
 ### Hi there 😎 
 ### I've using these 
