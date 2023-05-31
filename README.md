@@ -1,4 +1,4 @@
-<p align="center"><img src="https://usagif.com/wp-content/uploads/cat-typing-2.gif" width="800" height="300" align="center"/></p>
+<p align="center"><img src="https://usagif.com/wp-content/uploads/cat-typing-2.gif" width="100%" align="center"/></p>
 
 ### Hi there 😎 
 ### I've using these 
