@@ -1,4 +1,7 @@
-<p align="center"><img src="https://usagif.com/wp-content/uploads/cat-typing-2.gif" width="200px" height="100%" align="center"/></p>
+<p align="center">
+<img src="https://usagif.com/wp-content/uploads/cat-typing-2.gif" width="200px" height="100%" align="center"/>
+[![wakatime](https://wakatime.com/badge/user/2203e04c-a61e-4be7-a711-8f7bd0e5ce18.svg)](https://wakatime.com/@2203e04c-a61e-4be7-a711-8f7bd0e5ce18)
+</p>
 
 ### Hi there 😎 
 ### I've using these 
@@ -28,7 +31,7 @@
 ### Contact
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_nm.87/)](https://www.instagram.com/_nm.87/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:newri0807@gmail.com)](mailto:newri0807@gmail.com)
-[![wakatime](https://wakatime.com/badge/user/2203e04c-a61e-4be7-a711-8f7bd0e5ce18.svg)](https://wakatime.com/@2203e04c-a61e-4be7-a711-8f7bd0e5ce18)
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
