@@ -17,10 +17,10 @@
   </p>
 </p>
 
-<br/>
-<br/>
-<br/>
 <hr/>
+<br/>
+<br/>
+<br/>
 <p align="left">
   <strong>I've using these </strong>
   <br/>
