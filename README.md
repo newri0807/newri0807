@@ -1,5 +1,6 @@
 ### Hi there 😎 
 ### I've using these 
+[![wakatime](https://wakatime.com/badge/user/2203e04c-a61e-4be7-a711-8f7bd0e5ce18.svg)](https://wakatime.com/@2203e04c-a61e-4be7-a711-8f7bd0e5ce18)
 <p align="left">
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
