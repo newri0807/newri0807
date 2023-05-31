@@ -129,4 +129,3 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
  Last Updated on 31/05/2023 18:39:24 UTC
 <!--END_SECTION:waka-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newri0807&hide=css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
