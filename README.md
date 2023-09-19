@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=Tailwind&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&amp;logo=Tailwind CSS&amp;logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/></a>&nbsp 
