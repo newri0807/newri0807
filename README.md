@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/nestjs-23E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp 
