@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=fla&logo=amazonec2&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoft&logoColor=white"/></a>&nbsp     
+  <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoft&logoColor=white"/></a>&nbsp       
 </p>
 
 <p align="left">
@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-squar&logo=docker&logoColor=white"/></a>&nbsp     
 </p>
 
 &nbsp;
