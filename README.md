@@ -54,7 +54,6 @@
 &nbsp;
 ###
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=newri0807&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-951%20hrs%2053%20mins-blue)
