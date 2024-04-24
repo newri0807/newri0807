@@ -123,6 +123,8 @@ SCSS                     2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
+<!--END_SECTION:waka-->
+
 ![Lines of Code chart](https://raw.githubusercontent.com/newri0807/newri0807/main/assets/bar_graph.png)
 
 
