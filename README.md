@@ -5,15 +5,9 @@
  <img src="https://github.com/newri0807/newri0807/assets/51315988/4a6fb530-b6e7-4156-ae8c-bd620836a7cc" alt="Image" align="center"/>
   <br/>
   <br/>
-  <a href="https://www.instagram.com/_nm.87/">
-    <img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-squaree&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="mailto:newri0807@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-squaree&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/Irwen215">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-squaree&logo=twitter&logoColor=white" alt="Gmail" />
-  </a>  
 </p>
 
  
