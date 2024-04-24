@@ -16,3 +16,5 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           LOCALE: "en" #한국
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
