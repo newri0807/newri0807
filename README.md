@@ -47,7 +47,7 @@
 
 <!-- ![Codemaker2015 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=newri0807&layout=compact&theme=dracula) -->
 <!--![Languages Overview](https://raw.githubusercontent.com/newri0807/github-stats/master/generated/languages.svg) -->
-![Languages Overview](https://raw.githubusercontent.com/newri0807/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/newri0807/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
