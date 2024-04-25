@@ -1,3 +1,4 @@
+
 <p align="center">
   <strong>Hi there 😎</strong>
 </p>
@@ -6,13 +7,11 @@
   <br/>
   <br/>
   <a href="mailto:newri0807@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-squaree&logo=Gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
  
- 
-</p>
 <br/>
 <br/>
 <br/>
@@ -21,11 +20,11 @@
   <br/>  
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-e&amp;logo=Tailwind CSS&amp;logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-&logo=MySQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&amp;logo=Tailwind CSS&amp;logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=fla&logo=amazonec2&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazonec2&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.NET&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MicrosoftSQLServer-CC2927?style=flat&logo=microsoft&logoColor=white"/></a>&nbsp       
 </p>
