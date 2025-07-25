@@ -20,7 +20,7 @@
   <br/>  
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/>&nbsp   
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"/>&nbsp  
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&amp;logo=Tailwind CSS&amp;logoColor=white">&nbsp 
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white"/>&nbsp 
